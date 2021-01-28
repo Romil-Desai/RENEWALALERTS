@@ -1,7 +1,0 @@
-size=int(input())
-array=input().split(" ")
-first_no=max(array)
-array.remove(first_no)
-second_no=max(array)
-print(first_no,second_no)
-print(int(first_no)*int((second_no))
